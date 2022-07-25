@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "file:///c%3A/Users/ken/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/circleciconfig.json": "file:///c%3A/Users/ken/Desktop/ALX/DevOps_Microservices/project-ml-microservice-kubernetes/circleci/config.yml"
+    }
+}
